@@ -1,0 +1,9 @@
+body{
+    height: 1000px;
+    background: linear-gradient(to bottom right, #d46474 0%, #f7e2e4 100%);
+}
+
+div.box {
+    background-color: white;
+    padding: 15px;
+}
